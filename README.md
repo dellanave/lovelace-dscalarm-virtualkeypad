@@ -7,8 +7,6 @@ In HACS add a custom repository:
   Set category to: lovelace
 The card can be added directly through the dashboard configuration and has it's own editor.
 
-The cards are ment to be used with the Galaxy Gateway module available from https://seasoft.nl
-
 Other card available:
 
 Virtual keypad
