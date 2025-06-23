@@ -171,4 +171,4 @@ export class AlarmKeypadEditor extends LitElement {
   }
 }
 
-customElements.define("lovelace-galaxy-virtualkeypad-editor", AlarmKeypadEditor);
+customElements.define("lovelace-dscalarm-virtualkeypad-editor", AlarmKeypadEditor);
