@@ -6,11 +6,11 @@ const css = LitElement.prototype.css;
 
 window.customCards = window.customCards || [];
 window.customCards.push({
-  type: "lovelace-DSC-virtualkeypad",
+  type: "lovelace-dscalarm-virtualkeypad",
   name: "DSC Keypad",
   description: "A virtual keypad for DSC Alarm.",
   preview: true,
-  documentationURL: "https://github.com/GalaxyGateway/lovelace-galaxy-virtualkeypad",
+  documentationURL: "https://github.com/dellanave/lovelace-dscalarm-virtualkeypad",
 });
 
 const fireEvent = (node, type, detail, options) => {
