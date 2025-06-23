@@ -3,7 +3,7 @@ This card can be added through HACS.
 
 In HACS add a custom repository:
 
-  Set repository to: https://github.com/GalaxyGateway/lovelace-galaxy-virtualkeypad
+  Set repository to: https://github.com/dellanave/lovelace-dscalarm-virtualkeypad
   Set category to: lovelace
 The card can be added directly through the dashboard configuration and has it's own editor.
 
