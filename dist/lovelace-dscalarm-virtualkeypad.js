@@ -376,5 +376,5 @@ class AlarmKeypad extends LitElement {
   }
 }
 
-customElements.define('lovelace-dsc-virtualkeypad', AlarmKeypad);
+customElements.define('lovelace-dscalarm-virtualkeypad', AlarmKeypad);
    
