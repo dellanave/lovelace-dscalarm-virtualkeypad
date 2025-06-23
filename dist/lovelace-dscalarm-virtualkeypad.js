@@ -43,8 +43,8 @@ class AlarmKeypad extends LitElement {
   }
 
   static async getConfigElement() {
-    await import("./lovelace-dsc-virtualkeypad-editor.js");
-    return document.createElement("lovelace-dsc-virtualkeypad-editor");
+    await import("./lovelace-dscalarm-virtualkeypad-editor.js");
+    return document.createElement("lovelace-dscalarm-virtualkeypad-editor");
   }
 
   static getStubConfig(hass, unusedEntities, allEntities) {
